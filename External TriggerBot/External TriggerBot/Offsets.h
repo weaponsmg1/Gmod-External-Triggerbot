@@ -1,0 +1,38 @@
+#pragma once
+#include <cstddef>
+
+/*
+if you want update offsets
+"https://raw.githubusercontent.com/Calvineries/Gmod-Nexus-External-ESP/refs/heads/master/offsets.json"
+
+////////////////////////////////////
+{
+    "LocalPlayer": "0x9461c0", <--
+    "EntityList": "0x968158",
+    "ViewMatrix": "0x7c1568",
+
+    "ForceJump": "0xa352c0",
+    "MatFullbright": "0x20E6A78",
+
+    "Crosshair": "0x3700",    <-- 
+    "BoneMatrix": "0x1A98",
+    "m_hObserverTarget": "0x2CC8",
+    "m_hActiveWeapon": "0x2940",
+    "Weaponname": "0x1D00",
+    "Playername": "0x3744",
+    "SteamID": "0x37C8",
+
+    "Entityname": "0x1C98",
+
+    "lastupdate": "June 19, 2025"
+}
+/////////////////////////////////////
+
+Thanks Calvineries
+*/
+
+namespace Offsets 
+{
+	constexpr std::ptrdiff_t LocalPlayer = 0x9461c0;
+	constexpr std::ptrdiff_t Crosshair = 0x3700;
+}
