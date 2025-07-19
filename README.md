@@ -13,3 +13,6 @@ Change beta branch
 
 <img width="471" height="427" alt="image" src="https://github.com/user-attachments/assets/19bc4232-5970-4a89-a8fc-ea7e4fca7670" />
 
+Start game and open cheat
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f8d8733-662d-492f-ab7a-bc9149d0bb67" />
