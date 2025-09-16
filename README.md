@@ -1,6 +1,6 @@
 # Gmod-External-Triggerbot
 
-Very simple triggerbot for Chromium x64 make in C++
+Very simple triggerbot for Chromium x64 made in C++
 
 Don't detectable by all server anti-cheats
 
